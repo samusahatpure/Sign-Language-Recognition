@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yes</folder>
+	<filename>yes.1446443c-0702-11ef-8d74-c018032ff536.jpg</filename>
+	<path>C:\Users\hp\Desktop\Custom Object Detection App\Tensorflow\workspace\images\collectedimages\yes\yes.1446443c-0702-11ef-8d74-c018032ff536.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>86</ymin>
+			<xmax>372</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

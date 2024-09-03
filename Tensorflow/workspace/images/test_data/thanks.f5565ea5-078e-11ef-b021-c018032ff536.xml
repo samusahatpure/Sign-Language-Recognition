@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thanks</folder>
+	<filename>thanks.f5565ea5-078e-11ef-b021-c018032ff536.jpg</filename>
+	<path>C:\Users\hp\Desktop\Custom Object Detection App\Tensorflow\workspace\images\collectedimages\thanks\thanks.f5565ea5-078e-11ef-b021-c018032ff536.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>258</ymin>
+			<xmax>499</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>
